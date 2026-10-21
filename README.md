@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Header com a Imagem do Higuruma -->
-  <img src="higurama-banner.jpeg.jpeg" alt="Hiromi Higuruma Header Banner" width="100%" style="border-radius: 12px;" />
+  <img src="higurama-banner.jpeg" alt="Hiromi Higuruma Header Banner" width="100%" style="border-radius: 12px;" />
 
   <br />
 
