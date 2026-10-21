@@ -4,7 +4,6 @@
   <img src="higurama.jpeg" alt="Hiromi Higuruma Header Banner" width="100%" style="border-radius: 12px;" />
 
   <br />
-  <br />
 
   <h1>👋 Olá, eu sou o Pedro Azevedo!</h1>
 
